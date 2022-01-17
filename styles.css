@@ -33,11 +33,13 @@ h1 {
 }
 
 .big-text {
-  font-size: 6rem;
+  font-size: 5rem;
   font-weight: bold;
   line-height: 1;
   margin: 0 2rem;
   color: yellow;
+  margin-top: 3rem;
+  font-family: "Orbitron", sans-serif;
 }
 
 .count-down {
@@ -45,7 +47,7 @@ h1 {
 }
 
 .count-down span {
-  font-size: 1.5rem;
-  font-weight: bold;
-  color: darkslategray;
+  font-size: 2rem;
+  font-weight: 800;
+  color: black;
 }
